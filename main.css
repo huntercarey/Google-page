@@ -1,0 +1,53 @@
+img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20%;
+    height: 50%;
+    width: 20%;
+}
+
+
+
+.searchbar{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+    border: 2px groove red;
+
+    
+}
+
+input[type=submit]{
+    color: red;
+    border: 1px solid red;
+    background-color: aqua;
+    padding:15px;
+}
+
+footer{
+    margin-top: 21%;
+    background-color: rgb(230, 230, 230);
+    font-size: 19px;
+    border: 1px black solid;
+}
+.left{
+    margin-right: 20%;
+}
+.right{
+    margin-left: 61%;
+}
+
+
+
+a:hover{
+    color:aqua;
+}
+a{
+    text-decoration: none;
+    color: red;
+    padding-left: 2px;
+}
